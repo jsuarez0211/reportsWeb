@@ -63,8 +63,8 @@ def generate_scc_report (input_json, output_pdf):
         ('FONTSIZE', (0, 0), (-1, -1), 8),
         ('BOTTOMPADDING', (0, 0), (-1, -1), 5),
         ('TOPPADDING', (0, 0), (-1, -1), 5),
-        ('BACKGROUND', (0, 1), (-1, -1), colors.beige),
-        ('GRID', (0, 0), (-1, -1), 1, colors.black),
+        ('BACKGROUND', (0, 1), (-1, -1), colors.white),
+        #('GRID', (0, 0), (-1, -1), 1, colors.black),
     ])
 
     # Add a red line 
