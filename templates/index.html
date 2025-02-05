@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Report Generator</title>
+    </head>
+    <body>
+        <h1>Generate Reports</h1>
+        <form
+            action="/generate_mrp"
+            method="post"
+            enctype="multipart/form-data"
+        >
+            <label for="mrp_file">Upload MRP JSON File:</label>
+            <input type="file" name="file" id="mrp_file" accept=".json" />
+            <button type="submit">Generate MRP Report</button>
+        </form>
+        <br />
+        <form
+            action="/generate_scc"
+            method="post"
+            enctype="multipart/form-data"
+        >
+            <label for="scc_file">Upload SCC JSON File:</label>
+            <input type="file" name="file" id="scc_file" accept=".json" />
+            <button type="submit">Generate SCC Report</button>
+        </form>
+    </body>
+</html>

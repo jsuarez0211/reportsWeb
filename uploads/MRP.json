@@ -1,0 +1,146 @@
+[
+    {
+        "Actual Change Start": "9/22/2024 8:00:00 am",
+        "Request Number": "CM0020972",
+        "Requestor": "Dale, Bob",
+        "Title": "Policy/Billing Pro Checkout",
+        "Resource": "Dale, Bob",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": ".5 hours"
+    },
+    {
+        "Actual Change Start": "9/22/2024 8:00:00 am",
+        "Request Number": "CM0021148",
+        "Requestor": "Lampron, Neal",
+        "Title": "Stat Dev Checkout (ETL - Informatica)",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": ".5 hours"
+    },
+    {
+        "Actual Change Start": "9/22/2024 6:00:00 am",
+        "Request Number": "CM0021007",
+        "Requestor": "Waal, David",
+        "Title": "Sunday Morning SOP",
+        "Resource": "Waal, David",
+        "Dependencies": "SOP must be complete and confirmed by MAINT coodinator for app/dev teams to begin system checkout.",
+        "MRP Checkout Time Estimate": ""
+    },
+    {
+        "Actual Change Start": "9/21/2024 10:00:00 pm",
+        "Request Number": "CM0021155",
+        "Requestor": "Lan, Sandy",
+        "Title": "Monthly SQL Reindex",
+        "Resource": "",
+        "Dependencies": "SQL- Reorg can start after SQL patching and Windows final reboots finished.Coordinate with Win SA to reboot CO1SQLWPV30/CO1SQLWPV31/CO1SQLWPV32 seperately.",
+        "MRP Checkout Time Estimate": "1 hour"
+    },
+    {
+        "Actual Change Start": "9/21/2024 9:00:00 pm",
+        "Request Number": "CM0021158",
+        "Requestor": "Payne, Michael",
+        "Title": "Monthly AD Reboots",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": "1 hour"
+    },
+    {
+        "Actual Change Start": "9/21/2024 8:00:00 pm",
+        "Request Number": "CM0021156",
+        "Requestor": "Payne, Michael",
+        "Title": "Kerberos password Reset on Domain controllers",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": ".5 hours"
+    },
+    {
+        "Actual Change Start": "9/21/2024 8:00:00 pm",
+        "Request Number": "CM0021157",
+        "Requestor": "Payne, Michael",
+        "Title": "Monthly Exchange Reboots",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": "1 hour"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:33:00 pm",
+        "Request Number": "CM0021134",
+        "Requestor": "Esposito, Joe",
+        "Title": "Db2 Policy Billing NE,PL,HP reorgs",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": ".5 hours"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:32:00 pm",
+        "Request Number": "CM0021132",
+        "Requestor": "Esposito, Joe",
+        "Title": "Db2 Claims Pro Stream Reorgs",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": ".5 hours"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:31:00 pm",
+        "Request Number": "CM0021135",
+        "Requestor": "Esposito, Joe",
+        "Title": "Db2 NE , NJ Common Reorgs",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": ".5 hours"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:30:00 pm",
+        "Request Number": "CM0021116",
+        "Requestor": "Thompson, Michael",
+        "Title": "Regular windows monthly reboot",
+        "Resource": "",
+        "Dependencies": "Stop- Control-M, SQL Replication, Check with Middleware team",
+        "MRP Checkout Time Estimate": "1.5 hours"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:30:00 pm",
+        "Request Number": "CM0021116",
+        "Requestor": "Thompson, Michael",
+        "Title": "Regular windows monthly reboot",
+        "Resource": "",
+        "Dependencies": "Stop- Control-M, SQL Replication, Check with Middleware team",
+        "MRP Checkout Time Estimate": "1.5 hours"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:30:00 pm",
+        "Request Number": "CM0021159",
+        "Requestor": "Lan, Sandy",
+        "Title": "Monthly RDS&documentDB system updates & db upgrade",
+        "Resource": "",
+        "Dependencies": "Middleware admin bring down Kong and Front end first",
+        "MRP Checkout Time Estimate": "1 hour"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:30:00 pm",
+        "Request Number": "CM0021159",
+        "Requestor": "Lan, Sandy",
+        "Title": "Monthly RDS&documentDB system updates & db upgrade",
+        "Resource": "",
+        "Dependencies": "Middleware admin bring down Kong and Front end first",
+        "MRP Checkout Time Estimate": "1 hour"
+    },
+    {
+        "Actual Change Start": "9/21/2024 7:29:00 pm",
+        "Request Number": "CM0021006",
+        "Requestor": "Waal, David",
+        "Title": "Dependencies",
+        "Resource": "Waal, David",
+        "Dependencies": "OPs: Confirm Production Complete, Backups on Hold, DW Loads complete; all internal and exteranl (On-prem and AWS) Maintenance Pages for AI, CI and Claims apps",
+        "MRP Checkout Time Estimate": ""
+    },
+    {
+        "Actual Change Start": "9/21/2024 12:10:00 am",
+        "Request Number": "CM0021084",
+        "Requestor": "Thompson, Michael",
+        "Title": "Windows Server Patching",
+        "Resource": "",
+        "Dependencies": "",
+        "MRP Checkout Time Estimate": "1.5 hours"
+    }
+]

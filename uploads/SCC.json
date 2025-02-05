@@ -1,0 +1,146 @@
+﻿[
+    {
+        "Actual Change Start": "9\/5\/2024 10:30:00 pm",
+        "Request Number": "CM0021139",
+        "Requestor": "Hancock, Diane",
+        "Title": "Self Deploy SysAdmin Import into  HPPROD and NEPROD",
+        "Change Impact": "Low",
+        "Project Name": "HO 2024 PA Rate Change",
+        "Resource": "Hancock, Diane"
+    },
+    {
+        "Actual Change Start": "9\/5\/2024 5:00:00 pm",
+        "Request Number": "CM0021129",
+        "Requestor": "Castro, Paul",
+        "Title": "Coresite Testing Somerville Data Center",
+        "Change Impact": "Medium",
+        "Project Name": "core-network",
+        "Resource": "Castro, Paul"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 2:30:00 pm",
+        "Request Number": "CM0021130",
+        "Requestor": "Frantz, David",
+        "Title": "Quotes and Sales ETL - Soft Declines",
+        "Change Impact": "Low",
+        "Project Name": "Presidents Metrics Fixes and Small Changes 2024 - 2.2.2 - Marketing \/ Sales - ETL",
+        "Resource": "Frantz, David"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 1:00:00 pm",
+        "Request Number": "CM0021146",
+        "Requestor": "Diwekar, Anjali",
+        "Title": "PPRO STGRatingWS Auto - K8S AWS Deploy via  Jenkins Pipeline",
+        "Change Impact": "Low",
+        "Project Name": "Prime T",
+        "Resource": "Diwekar, Anjali"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 1:00:00 pm",
+        "Request Number": "CM0021146",
+        "Requestor": "Diwekar, Anjali",
+        "Title": "PPRO STGRatingWS Auto - K8S AWS Deploy via  Jenkins Pipeline",
+        "Change Impact": "Low",
+        "Project Name": "Prime T",
+        "Resource": "Qin, Phillip"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 12:00:00 pm",
+        "Request Number": "CM0021128",
+        "Requestor": "Volltrauer, Joseph",
+        "Title": "Modify purchase workflow to remove STG VP Approver from being required for all purchases.",
+        "Change Impact": "Low",
+        "Project Name": "",
+        "Resource": "Volltrauer, Joseph"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 8:00:00 am",
+        "Request Number": "CM0021147",
+        "Requestor": "Ferland, Brian",
+        "Title": "Upload New Project Management Pulse Dashboard to Tableau Production",
+        "Change Impact": "Low",
+        "Project Name": "Core - Enterprise Reports",
+        "Resource": "Ferland, Brian"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 8:00:00 am",
+        "Request Number": "CM0021138",
+        "Requestor": "Cavanaugh, Sean",
+        "Title": "Add space to DB2 production servers",
+        "Change Impact": "Low",
+        "Project Name": "Core - Systems",
+        "Resource": "Cavanaugh, Sean"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 8:00:00 am",
+        "Request Number": "CM0021138",
+        "Requestor": "Cavanaugh, Sean",
+        "Title": "Add space to DB2 production servers",
+        "Change Impact": "Low",
+        "Project Name": "Core - Systems",
+        "Resource": "Woods, William"
+    },
+    {
+        "Actual Change Start": "9\/4\/2024 8:00:00 am",
+        "Request Number": "CM0021138",
+        "Requestor": "Cavanaugh, Sean",
+        "Title": "Add space to DB2 production servers",
+        "Change Impact": "Low",
+        "Project Name": "Core - Systems",
+        "Resource": "Labade, Jitendra"
+    },
+    {
+        "Actual Change Start": "9\/3\/2024 4:00:00 pm",
+        "Request Number": "CM0021131",
+        "Requestor": "Castro, Paul",
+        "Title": "Add the 711 Boston location, Devonshire and Amherst  to the new packetfence environment",
+        "Change Impact": "Medium",
+        "Project Name": "core-network",
+        "Resource": "Castro, Paul"
+    },
+    {
+        "Actual Change Start": "9\/3\/2024 4:00:00 pm",
+        "Request Number": "CM0021123",
+        "Requestor": "Tripathi, Malvika",
+        "Title": "Deploy changes to President' daily snapshot - Tableau workbook",
+        "Change Impact": "Low",
+        "Project Name": "Presidents Metrics Fixes and Small Changes 2024 7 - Daily Snapshot Cat Flag Enhancement.",
+        "Resource": "Tripathi, Malvika"
+    },
+    {
+        "Actual Change Start": "9\/3\/2024 3:00:00 pm",
+        "Request Number": "CM0021126",
+        "Requestor": "Rachuri, Mahesh",
+        "Title": "PolicyBilling PRO -Batch Deployment- CREATE_REC_REFUND Changes",
+        "Change Impact": "Medium",
+        "Project Name": "Core-Services",
+        "Resource": "Rachuri, Mahesh"
+    },
+    {
+        "Actual Change Start": "9\/3\/2024 2:30:00 pm",
+        "Request Number": "CM0021144",
+        "Requestor": "Rao, Krishna",
+        "Title": "AQR Changes for TD # 113855",
+        "Change Impact": "Medium",
+        "Project Name": "HO Expansion and Small Projects 2024",
+        "Resource": "Rao, Krishna"
+    },
+    {
+        "Actual Change Start": "9\/3\/2024 2:30:00 pm",
+        "Request Number": "CM0021143",
+        "Requestor": "Thrasher, Lydia",
+        "Title": "DQM Address Verification - 4.3.3 upgrade",
+        "Change Impact": "Medium",
+        "Project Name": "DQM Upgrade",
+        "Resource": "Thrasher, Lydia"
+    },
+    {
+        "Actual Change Start": "9\/3\/2024 2:30:00 pm",
+        "Request Number": "CM0021143",
+        "Requestor": "Thrasher, Lydia",
+        "Title": "DQM Address Verification - 4.3.3 upgrade",
+        "Change Impact": "Medium",
+        "Project Name": "DQM Upgrade",
+        "Resource": "Doran, Timothy"
+    }
+]
